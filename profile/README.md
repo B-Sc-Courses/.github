@@ -14,7 +14,7 @@
 <div align="left">
 <!-- OS -->
 <!-- bash -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="./.images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/></a>
 <!-- linux -->
 <a href="https://www.linux.org/" target="_blank"><img src="./.images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/></a>
 <!-- Languages -->
